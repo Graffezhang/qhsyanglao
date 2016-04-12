@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://114.215.172.138:8020/laorenbang/icon@2x.png</string>
+					<string>http://223.221.8.13/app-download/file/yanglaoicon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://114.215.172.138:8020/laorenbang/icon.png</string>
+					<string>http://223.221.8.13/app-download/file/yanglaoicon57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
