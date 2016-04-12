@@ -13,6 +13,22 @@
 					<key>url</key>
 					<string>http://223.221.8.13/app-download/file/qhservice.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://223.221.8.13/app-download/file/jujiaicon.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://223.221.8.13/app-download/file/jujiaicon57.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
