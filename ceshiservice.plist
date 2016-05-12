@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://112.124.67.148:8660/app-download/ceshiFile/jujiaicon.png</string>
+					<string>http://112.124.67.148:8660/app-download/resource/images/ceshi/jujiaicon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://112.124.67.148:8660/app-download/ceshiFile/jujiaicon57.png</string>
+					<string>http://112.124.67.148:8660/app-download/resource/images/ceshi/jujiaicon57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
